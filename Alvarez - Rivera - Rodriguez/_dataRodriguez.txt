@@ -1,0 +1,2 @@
+Mon (juan x = 0; x < 10: x++){DNRT(x==8) tilled;}
+println("x: " + x)
